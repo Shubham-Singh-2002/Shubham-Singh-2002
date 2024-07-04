@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw1pH8yrhml65Jyeq6Fl1f82&ust=1720216919447000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDDiNCxjocDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpayalthummar&psig=AOvVaw1pH8yrhml65Jyeq6Fl1f82&ust=1720216919447000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDDiNCxjocDFQAAAAAdAAAAABAE.gif">
 
 
 
