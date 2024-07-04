@@ -1,5 +1,4 @@
 ![MasterHead]
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F403283341643887227%2F&psig=AOvVaw1vGIRcPDH8vVYNyn0lt3IA&ust=1720215073856000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi5ideqjocDFQAAAAAdAAAAABAE)
 
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
